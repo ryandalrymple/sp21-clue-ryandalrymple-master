@@ -1,0 +1,21 @@
+Random Strategy:
+
+How often do you get a solution in fewer than 20 guesses? Does this change depending on the theory you test (1, 2, 3)?
+
+Not very often, I would say maybe ~15% if I had to put a guess on it. This is consistent throughout the theories tested.
+
+What is good or bad about this strategy?
+
+This strategy relies on a random number generator to match with another random number generator. Statistically it is unlikely that the numbers will match, which is why it is seldom under 20 guesses.
+
+
+Iterative Strategy
+
+How often do you get a solution in fewer than 20 guesses? Does this change depending on the theory you test (1, 2, 3)?
+
+The solution is always 20 guesses or fewer. Yes, because I wrote it to start at 1, it guesses the first theory correct on the first time, the second one correct after 20 tries, 0 < theory 3 < 20 for the last one
+
+What is good or bad about this strategy?
+
+The good: This is the simpliest solution to this problem where you will always meet the requirements (that I can think of!)
+The bad: This is very unlikely to be the fastest way to solve this problem. There must be another solution that will reduce the average number of iterations for all three.

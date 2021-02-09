@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"model","l":"AssistantJack"},{"p":"model","l":"AssistantJackTest"},{"p":"edu.miracosta.cs113","l":"RandomClue"},{"p":"model","l":"Theory"},{"p":"model","l":"TheoryItem"}];updateSearchResults();
